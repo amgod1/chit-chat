@@ -21,7 +21,6 @@ const ChatControl = (props) => {
 
     const sendMessage = () => {
         props.onSendMessage(props.user, localStorage.login, props.message)
-        props.onCheckMessage(localStorage.login, props.user)
         props.setMessage('')
     }
 
