@@ -1,6 +1,6 @@
 {
   "homepage": "https://amgod1.github.io/chit-chat",
-  "name": "client",
+  "name": "chit-chat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
