@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chit-chat/static/css/main.c31b7143.css",
+    "main.js": "/chit-chat/static/js/main.963063fc.js",
+    "index.html": "/chit-chat/index.html",
+    "main.c31b7143.css.map": "/chit-chat/static/css/main.c31b7143.css.map",
+    "main.963063fc.js.map": "/chit-chat/static/js/main.963063fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c31b7143.css",
+    "static/js/main.963063fc.js"
+  ]
+}
